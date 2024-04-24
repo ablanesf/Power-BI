@@ -1,7 +1,9 @@
 # Power-BI
 
 En este ejercicio, importaremos datos desde Excel y haremos una simulación de una presentación de ventas en power BI.
+
 A continuación, explicaré paso a paso todo lo que voy realizando en el dashboard.
+
 En cuanto al tratamiento de los datos, empezaremos transformando a mayúsculas la columna ‘Segmento’, cambiamos de tipo a las columnas para que sean números enteros, transformamos a formato Fecha la columna  ‘Fecha’, cambiamos de nombre la columna ‘Mes nombre’ a ‘Mes’, en la columna ‘Producto’ eliminaremos el producto ‘Montana’. Para finalizar, nos vamos a la pestaña Inicio para cerrar y aplicar.
 
 Comenzamos a realizar las visualizaciones.
