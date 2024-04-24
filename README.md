@@ -1,6 +1,6 @@
 # Power-BI
 
-En este ejercicio, importaremos datos desde Excel y haremos una simulación de una presentación de ventas en power BI.
+En este ejercicio, importaremos datos desde Excel y haremos una simulación de una presentación de ventas en Power BI.
 
 A continuación, explicaré paso a paso todo lo que voy realizando en el dashboard.
 
